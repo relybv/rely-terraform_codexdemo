@@ -5,6 +5,8 @@ Quick Instruction:
 Download and install Terraform
 https://www.terraform.io/downloads.html
 
+Create credentials using the "clasic portal" procedure on https://www.terraform.io/docs/providers/azurerm/
+
 Edit the TerraformCredentials.ps1 and enter API keys
 
 Load Powershell
